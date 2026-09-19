@@ -1,16 +1,58 @@
-## Hi there 👋
+#  Hi, I'm Ansh Yadav
 
-<!--
-**AnshYadav75/AnshYadav75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  IIPS, DAVV — Indore
 
-Here are some ideas to get you started:
+I'm ** Ansh Yadav**, a student at **IIPS, Devi Ahilya Vishwavidyalaya (DAVV), Indore**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in learning programming, technology, and building my skills throughout my college journey.
+
+---
+
+##  About Me
+
+Name: Ansh Yadav
+Institute:IIPS, DAVV
+Location:Indore, Madhya Pradesh
+Hobby:Playing Chess
+Currently Learning: Programming & Computer Science
+
+
+##  Skills & Technologies
+
+```text
+C Programming
+Git & GitHub
+Problem Solving
+Computer Science Fundamentals
+```
+
+
+##  My Hobby
+
+I enjoy **playing Chess** in my free time.
+
+Chess helps me improve my:
+
+Logical thinking
+Concentration
+Strategic planning
+Problem-solving skills
+
+
+##  My Goal
+
+> Learn continuously, build projects, improve my programming skills, and grow as a technology professional.
+
+
+##  Currently Working On
+
+* Learning C Programming
+* Practicing problem-solving
+* Exploring Git & GitHub
+* Building my first projects
+
+
+
+ Thanks for visiting my profile!
+
+**Made with  by Ansh Yadav**
